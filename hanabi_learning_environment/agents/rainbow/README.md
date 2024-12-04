@@ -1,4 +1,4 @@
-# Rainbow agent for the Hanabi Learning Environment
+# Rainbow with augmented convention-action space agents for the Hanabi Learning Environment
 
 ## Instructions - Basics
 
