@@ -1,4 +1,4 @@
-name: deepmind_hanabi
+name: hanabi_conventions
 channels:
   - defaults
 dependencies:
