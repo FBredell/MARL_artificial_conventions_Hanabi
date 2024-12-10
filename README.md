@@ -31,4 +31,15 @@ We have included conventions for Small Hanabi, as well as Full Hanabi found with
 ### Citation
 
 To reference our work, and for more information, please see the article detailing our research on Augmenting the action space with conventions to improve multi-agent cooperation in Hanabi:
+```
+@misc{bredell2024augmentingactionspaceconventions,
+      title={Augmenting the action space with conventions to improve multi-agent cooperation in Hanabi}, 
+      author={F. Bredell and H. A. Engelbrecht and J. C. Schoeman},
+      year={2024},
+      eprint={2412.06333},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2412.06333}, 
+}
+```
 
